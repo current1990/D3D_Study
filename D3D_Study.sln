@@ -36,6 +36,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Try_RotatingRingWithLight",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Try_RotatingTeapot", "Try_RotatingTeapot\Try_RotatingTeapot.vcxproj", "{6C719CAE-47A9-4AE7-B9A6-824BD09D4A69}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap6_TexQuad", "Chap6_TexQuad\Chap6_TexQuad.vcxproj", "{C0EE34EB-A213-49B3-94E5-B773E63A6627}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap6_TexCube", "Chap6_TexCube\Chap6_TexCube.vcxproj", "{E69D9721-C8B2-4A05-BAC9-E010CA01B679}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -98,6 +102,14 @@ Global
 		{6C719CAE-47A9-4AE7-B9A6-824BD09D4A69}.Debug|Win32.Build.0 = Debug|Win32
 		{6C719CAE-47A9-4AE7-B9A6-824BD09D4A69}.Release|Win32.ActiveCfg = Release|Win32
 		{6C719CAE-47A9-4AE7-B9A6-824BD09D4A69}.Release|Win32.Build.0 = Release|Win32
+		{C0EE34EB-A213-49B3-94E5-B773E63A6627}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0EE34EB-A213-49B3-94E5-B773E63A6627}.Debug|Win32.Build.0 = Debug|Win32
+		{C0EE34EB-A213-49B3-94E5-B773E63A6627}.Release|Win32.ActiveCfg = Release|Win32
+		{C0EE34EB-A213-49B3-94E5-B773E63A6627}.Release|Win32.Build.0 = Release|Win32
+		{E69D9721-C8B2-4A05-BAC9-E010CA01B679}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E69D9721-C8B2-4A05-BAC9-E010CA01B679}.Debug|Win32.Build.0 = Debug|Win32
+		{E69D9721-C8B2-4A05-BAC9-E010CA01B679}.Release|Win32.ActiveCfg = Release|Win32
+		{E69D9721-C8B2-4A05-BAC9-E010CA01B679}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

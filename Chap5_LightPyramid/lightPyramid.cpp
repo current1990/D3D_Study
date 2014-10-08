@@ -105,7 +105,7 @@ bool Render(float DeltaTime)
 		RECT client;
 		GetClientRect(FindWindow(NULL, TEXT("Pyramid")), &client);
 		D3DXMATRIX proj;
-		float X = GetSystemMetrics(0);
+		float X = static_cast<float>(GetSystemMetrics(0));
 		D3DXMatrixPerspectiveFovLH(&proj,
 								   D3DX_PI / 2.0f,
 								   static_cast<float>((client.right - client.left) / (client.bottom - client.top)),
