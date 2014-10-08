@@ -66,6 +66,7 @@ bool Render(float DeltaTime)
 			pD3DDEV->SetSamplerState(0, D3DSAMP_MAGFILTER, D3DTEXF_ANISOTROPIC);
 			pD3DDEV->SetSamplerState(0, D3DSAMP_MINFILTER, D3DTEXF_ANISOTROPIC);
 			pD3DDEV->SetSamplerState(0, D3DSAMP_MIPFILTER, D3DTEXF_ANISOTROPIC);
+			pD3DDEV->SetSamplerState(0, D3DSAMP_MAXANISOTROPY, 16);
 		}
 		if( GetAsyncKeyState('2') & 0x8000f )
 		{
