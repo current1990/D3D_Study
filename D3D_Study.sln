@@ -40,6 +40,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap6_TexQuad", "Chap6_TexQ
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap6_TexCube", "Chap6_TexCube\Chap6_TexCube.vcxproj", "{E69D9721-C8B2-4A05-BAC9-E010CA01B679}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap7_MtrlAlpha", "Chap7_MtrlAlpha\Chap7_MtrlAlpha.vcxproj", "{950EDA68-17D3-4585-9C93-2286757AE900}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -110,6 +112,10 @@ Global
 		{E69D9721-C8B2-4A05-BAC9-E010CA01B679}.Debug|Win32.Build.0 = Debug|Win32
 		{E69D9721-C8B2-4A05-BAC9-E010CA01B679}.Release|Win32.ActiveCfg = Release|Win32
 		{E69D9721-C8B2-4A05-BAC9-E010CA01B679}.Release|Win32.Build.0 = Release|Win32
+		{950EDA68-17D3-4585-9C93-2286757AE900}.Debug|Win32.ActiveCfg = Debug|Win32
+		{950EDA68-17D3-4585-9C93-2286757AE900}.Debug|Win32.Build.0 = Debug|Win32
+		{950EDA68-17D3-4585-9C93-2286757AE900}.Release|Win32.ActiveCfg = Release|Win32
+		{950EDA68-17D3-4585-9C93-2286757AE900}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
